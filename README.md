@@ -1,5 +1,5 @@
-<div align="center">
 
+<div align="center">
   [![Stockfish][stockfish128-logo]][website-link]
 
   <h3>Stockfish</h3>
